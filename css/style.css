@@ -18,6 +18,14 @@ ul {
 	overflow: hidden;
 }
 
+.btn-1 {
+	height: 38px;
+	background: #e8491d;
+	border: 0;
+	padding: 0 20px;
+	color: #ffffff;
+}
+
 /* Header */
 
 header {
@@ -82,6 +90,23 @@ header a:hover {
 
 #showcase p {
 	font-size: 20px;
+}
+
+#cta {
+	padding: 15px;
+	color: #ffffff;
+	background: #35424a;
+}
+
+#cta h1 {
+	float: left;
+}
+
+#cta button[type="submit"] {
+	float: right;
+	margin-top: 20px;
+	margin-right: 5px;
+	font-size: 16px;
 }
 
 
