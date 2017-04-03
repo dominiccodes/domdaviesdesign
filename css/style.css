@@ -184,7 +184,9 @@ footer {
 	header nav li,
 	#cta h1,
 	#cta button,
-	#boxes .box {
+	#boxes .box,
+	article#main-col,
+	aside#sidebar {
 		float: none;
 		text-align: center;
 		width: 100%;
