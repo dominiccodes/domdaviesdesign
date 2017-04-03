@@ -92,6 +92,8 @@ header a:hover {
 	font-size: 20px;
 }
 
+/* CTA Section */
+
 #cta {
 	padding: 15px;
 	color: #ffffff;
@@ -107,6 +109,23 @@ header a:hover {
 	margin-top: 20px;
 	margin-right: 5px;
 	font-size: 16px;
+}
+
+/* Boxes */
+
+#boxes {
+	margin-top: 20px;
+}
+
+#boxes .box {
+	float: left;
+	text-align: center;
+	width: 30%;
+	padding: 10px;
+}
+
+#boxes .box img {
+	width: 140px;
 }
 
 
